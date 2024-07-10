@@ -1,0 +1,12 @@
+C:\Users\Anuson\Desktop\VISUAL STUDIO 2.0\C#\tigtagtoe\tigtagtoe\bin\Debug\tigtagtoe.exe.config
+C:\Users\Anuson\Desktop\VISUAL STUDIO 2.0\C#\tigtagtoe\tigtagtoe\bin\Debug\tigtagtoe.exe
+C:\Users\Anuson\Desktop\VISUAL STUDIO 2.0\C#\tigtagtoe\tigtagtoe\bin\Debug\tigtagtoe.pdb
+C:\Users\Anuson\Desktop\VISUAL STUDIO 2.0\C#\tigtagtoe\tigtagtoe\obj\Debug\tigtagtoe.csproj.AssemblyReference.cache
+C:\Users\Anuson\Desktop\VISUAL STUDIO 2.0\C#\tigtagtoe\tigtagtoe\obj\Debug\tigtagtoe.Form1.resources
+C:\Users\Anuson\Desktop\VISUAL STUDIO 2.0\C#\tigtagtoe\tigtagtoe\obj\Debug\tigtagtoe.Properties.Resources.resources
+C:\Users\Anuson\Desktop\VISUAL STUDIO 2.0\C#\tigtagtoe\tigtagtoe\obj\Debug\tigtagtoe.csproj.GenerateResource.cache
+C:\Users\Anuson\Desktop\VISUAL STUDIO 2.0\C#\tigtagtoe\tigtagtoe\obj\Debug\tigtagtoe.csproj.CoreCompileInputs.cache
+C:\Users\Anuson\Desktop\VISUAL STUDIO 2.0\C#\tigtagtoe\tigtagtoe\obj\Debug\tigtagtoe.exe
+C:\Users\Anuson\Desktop\VISUAL STUDIO 2.0\C#\tigtagtoe\tigtagtoe\obj\Debug\tigtagtoe.pdb
+C:\Users\Anuson\Desktop\VISUAL STUDIO 2.0\C#\tigtagtoe\tigtagtoe\obj\Debug\tigtagtoe.Form2.resources
+C:\Users\Anuson\Desktop\VISUAL STUDIO 2.0\C#\tigtagtoe\tigtagtoe\obj\Debug\tigtagtoe.Form3.resources
